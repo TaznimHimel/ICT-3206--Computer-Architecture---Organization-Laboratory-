@@ -1,6 +1,6 @@
 # ICT-3206: Computer Architecture & Microprocessor Lab
 
-This repository contains the complete sessional lab work for the course **ICT-3206: Computer Architecture & Microprocessor** at the Islamic University, Bangladesh. The experiments are designed to build a fundamental understanding of core computer architecture concepts, from basic register operations to pipelining and cache simulation.
+This repository contains the complete sessional lab work for the course **ICT-3206: Computer Architecture & Organizatio Laboratory** at the Islamic University, Bangladesh. The experiments are designed to build a fundamental understanding of core computer architecture concepts, from basic register operations to pipelining and cache simulation.
 
 The labs are implemented based on the provided manual, with code available in Python, and templates for C++ and MATLAB.
 
@@ -9,7 +9,7 @@ The labs are implemented based on the provided manual, with code available in Py
 ## 🏛️ Course & Student Information
 
 * **Course Code:** `ICT-3206`
-* **Course Title:** Computer Architecture & Microprocessor Lab
+* **Course Title:** Computer Architecture & Organizations Lab
 * **Student Name:** Himel
 * **Department:** Information and Communication Technology (ICT)
 * **University:** Islamic University, Bangladesh
